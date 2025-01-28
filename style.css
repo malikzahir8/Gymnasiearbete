@@ -95,7 +95,7 @@ a:nth-child(4):hover ~ .ani {
 }
 
 #frambild1 {
-  background-image: url(./Bilder/frambild.PNG);
+  background-image: url(frambild.PNG);
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
